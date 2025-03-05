@@ -3,13 +3,14 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>87eb777b-bb96-4446-97d6-6f8b28cbd3e6</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
+    <ProjectHome>
+    </ProjectHome>
     <StartupFile>main.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <OutputPath>.</OutputPath>
-    <Name>ChurnGuard_A_Logistic_Linear_Classification_Approach</Name>
+    <Name>ChurnGuard_A_Logistic_Regression_Classification_Approach</Name>
     <RootNamespace>ChurnGuard_A_Logistic_Linear_Classification_Approach</RootNamespace>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
