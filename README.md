@@ -12,7 +12,7 @@ ChurnGuard is a machine learning project that implements a logistic regression a
 
 ## Overview
 
-The goal of this project is to predict whether a customer will churn (i.e., leave the service) using logistic regression. The project includes:
+The goal of this project is to predict whether a customer will churn using logistic regression. The project includes:
 - Data preprocessing (handling missing values, type conversion, one-hot encoding, and outlier removal).
 - Splitting the dataset into training and test sets.
 - Implementing a custom logistic regression model using gradient descent.
