@@ -8,6 +8,7 @@ ChurnGuard is a machine learning project that implements a logistic regression a
 - [Features](#features)
 - [Modules](#modules)
 - [Results](#results)
+- [Acknowledgements](#Acknowledgements)
 
 
 ## Overview
@@ -119,6 +120,11 @@ This module provides a function to remove outliers from a DataFrame using the In
 
 ## Scikit-learn Logistic Regression
 - **Test Accuracy:** 80.27%
+
+
+
+# Acknowledgements
+I would like to thank the Udemy channel **dataiteam** for the inspiration and guidance provided through their tutorials, which greatly contributed to the development of this project.
 
 
 
